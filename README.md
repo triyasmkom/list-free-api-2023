@@ -74,3 +74,7 @@ LIST FREE API 2023
 
 ## Reference:
 - https://www.linkedin.com/posts/mangesh2002_awesome-free-apis-ugcPost-7110465052889030656-YnPB?utm_source=share&utm_medium=member_desktop
+
+## Activities
+
+- [Bucketlist Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) — One daily experience with an image and source URL; Dutch by default.
